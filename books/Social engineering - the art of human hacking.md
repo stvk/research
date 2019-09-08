@@ -1,7 +1,26 @@
 # Social Engineering: The Art of Human Hacking (by Christopher Hadnagy)
 ## Book Review
 
-[TOC]
+<!-- TOC -->
+
+- [Social Engineering: The Art of Human Hacking (by Christopher Hadnagy)](#social-engineering-the-art-of-human-hacking-by-christopher-hadnagy)
+    - [Book Review](#book-review)
+- [Ch 1 INTRODUCTION](#ch-1-introduction)
+    - [Pre-conditions for social engineering.](#pre-conditions-for-social-engineering)
+- [Ch 2 GATHERING INFORMATION](#ch-2-gathering-information)
+    - [Online Information Gathering Considerations](#online-information-gathering-considerations)
+        - [Sources](#sources)
+    - [Physical Information Gathering Considerations](#physical-information-gathering-considerations)
+        - [Simple observation](#simple-observation)
+- [Ch 3 ELICITATION](#ch-3-elicitation)
+- [Ch 4 PRETEXTING](#ch-4-pretexting)
+- [Ch 5 MIND TRICKS](#ch-5-mind-tricks)
+- [Ch 6 INFLUENCE](#ch-6-influence)
+- [Ch 7 THE TOOLS OF THE SOCIAL ENGINEER](#ch-7-the-tools-of-the-social-engineer)
+- [Ch 8 CASE STUDIES](#ch-8-case-studies)
+- [Ch 9 PREVENTION AND MITIGATION](#ch-9-prevention-and-mitigation)
+
+<!-- /TOC -->
 
 # Ch 1 INTRODUCTION
 ## Pre-conditions for social engineering.
