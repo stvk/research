@@ -1,6 +1,4 @@
 
-# L1
-
 <!-- TOC -->
 
 - [L1](#l1)
@@ -12,6 +10,8 @@
         - [Benign vs Adversarial](#benign-vs-adversarial)
 
 <!-- /TOC -->
+
+# L1
 
 ## Intelligent Agents
 ```mermaid
