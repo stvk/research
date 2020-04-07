@@ -1,7 +1,7 @@
-#Book Review
+# Book Review
 
-##Accessory to War: The Unspoken Alliance Between Astrophysics and the Military
-###By Neil DeGrasse Tyson
+## Accessory to War: The Unspoken Alliance Between Astrophysics and the Military
+### By Neil DeGrasse Tyson
 
 The author opens his discussion by first reviewing the historical scientific and non-scientific precursors to astrophysics; astronomy and astrology respectively. He transitions to the field of astrophysics with a discussion of the technological pre-cursors that allowed the branch of science to flourish in the first place - namely the development of focusing lenses and the invention of the telescope.
 
